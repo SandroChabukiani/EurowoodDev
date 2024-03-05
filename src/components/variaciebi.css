@@ -1,0 +1,31 @@
+.savariacio{
+    margin-top: 25px;
+    width: 230px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.fir{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: rgb(20, 20, 20);
+}
+.sec{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background: #5A3D18;
+}
+.thir{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background: #B0782E;
+}
+.fou{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background: #E5D4BE;
+}
